@@ -1,1 +1,1 @@
-# Photography-Page
+Welcome to the Photography Page Repository! This repository contains a simple photography page created using HTML and CSS. The page showcases a collection of photographs and provides a clean and visually appealing interface for users to view and appreciate the images.
